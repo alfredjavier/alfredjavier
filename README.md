@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I'm currently studying at Our Lady of Fatima University Taking  Bachelor of Science Information Technology.
+- 👨‍🎓 I'm Currently Studying at Our Lady of Fatima University, Taking a Bachelor of Science in Information Technology.
 
 - 💻 I’m Currently Learning  **MERN Stack.**
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
