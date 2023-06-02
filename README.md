@@ -39,8 +39,7 @@
      </a> 
      <!-- mongodb -->
     <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" style="max-width:100%;">
-     <!-- Expressjs -->
-      <!-- reactjs -->
+  
      </a>
     <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48" style="max-width:100%;"> </a>
    <a/>
@@ -67,7 +66,7 @@
     <!-- DOCKER -->
     <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48" style="max-width:100%;"> </a> -->
 <!-- WORDPRESS -->
-<!-- <a href="https://wordpress.org/download/" > 
+ href="https://wordpress.org/download/" > 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png"  width="48" height="48" >
 <!-- FIGMA -->
 <a href="https://www.figma.com/design/" > 
