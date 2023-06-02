@@ -66,7 +66,7 @@
     <!-- DOCKER -->
     <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48" style="max-width:100%;"> </a> -->
 <!-- WORDPRESS -->
- href="https://wordpress.org/download/" > 
+<a href="https://wordpress.org/download/" > 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png"  width="48" height="48" >
 <!-- FIGMA -->
 <a href="https://www.figma.com/design/" > 
