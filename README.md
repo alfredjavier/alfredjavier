@@ -22,18 +22,14 @@
 
 
 ##  🚀 Languages and Tools
-<!-- <p align="left">   
+ <p align="left">   
    </a> 
      </a> 
-     <!-- html -->
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  -->
-<!--     <!-- css -->
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
      </a> 
-     <!-- Javascript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <!-- bootsrap -->
     <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/0174b03bab13c90e5673eaafbaa2cc273f8f0f8e70c39e660d0db9895f41f7ae/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f626f6f7473747261702e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/bootstrap.png" style="max-width:100%;"> </a>
     <a> 
      </a> 
