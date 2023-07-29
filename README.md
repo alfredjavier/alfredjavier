@@ -2,7 +2,7 @@
 
 <h1>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Alfred Javier 💻☕</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=00E7F7&vCenter=true&width=685&height=20&lines=I'm+a+Information+Technology+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=00E7F7&vCenter=true&width=685&height=20&lines=I'm+a+Information+Technology+Student+and+self-taught+Dev;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
 
 <a href="https://app.daily.dev/Redz"><img align="right" src="https://api.daily.dev/devcards/102e358d74e542faae501170f3fb77fa.png?r=svl" width="27%" alt="Red's Dev Card"/></a>
 
