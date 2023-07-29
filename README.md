@@ -21,10 +21,7 @@
 #### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-javier-8230b4215/) 
-[![Instagram](https://img.shields.io/badge/carlos_tabangay-E4405F?&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
-[![Facebook](https://img.shields.io/badge/CarlosTabangay-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/CarlosTabangayRedDotz20/)
-[![Twitter](https://img.shields.io/badge/carlos_tabangay-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
-[![Discord](https://img.shields.io/badge/RedDotz-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
+
 
 #### Top Technologies:
 
