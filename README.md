@@ -12,8 +12,7 @@
 -   🤝 Looking forward to collaborate with other projects.
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
 -   🎯 Current Goal: Create, Build and Deploy projects
--   ⚡ Fun fact: My Personality Type is **_INFJ_**.
--   📫 How to reach me: **carlos_tabangay@outlook.com**
+-   📫 How to reach me: **javieralfred93@gmail.com**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat" alt="reddotz20" width="120px"/> </p> -->
 
