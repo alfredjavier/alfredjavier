@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=00E7F7&vCenter=true&width=685&height=20&lines=I'm+a+Information+Technology+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
 
-<a href="https://app.daily.dev/Redz"><img src="https://api.daily.dev/devcards/102e358d74e542faae501170f3fb77fa.png?r=0o7" width="400" alt="Red's Dev Card"/></a>
+<a href="https://app.daily.dev/Redz"><img align="right" src="https://api.daily.dev/devcards/102e358d74e542faae501170f3fb77fa.png?r=svl" width="27%" alt="Red's Dev Card"/></a>
 
 -   ⚒ I’m currently working on my **Front-End Skills**.
 -   🌱 I’m currently learning Next JS and Server Side Rendering.
