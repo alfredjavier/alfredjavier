@@ -1,18 +1,67 @@
-# 💫 About Me:
-👨‍🎓 I'm Currently Studying at Our Lady of Fatima University, Taking a Bachelor of Science in Information Technology.<br>💻 I’m Currently Learning MERN Stack.
+<!-- [comment]: <img alt="banner" align="center" width="100%" height="40%" src="./images/banner.jpg" /> -->
 
+<h1>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Carlos Tabangay | aka RedDotz 💻☕</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-javier-8230b4215/) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=00E7F7&vCenter=true&width=685&height=20&lines=I'm+a+Computer+Science+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alfredjavier&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alfredjavier&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredjavier&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
+
+-   ⚒ I’m currently working on my **Front-End Skills**.
+-   🌱 I’m currently learning Next JS and Server Side Rendering.
+-   💬 Ask me about **React, HTML, CSS, JavaScript/TypeScript**.
+-   🤝 Looking forward to collaborate with other projects.
+-   🤔 I’m looking for help with other Web Frameworks and Tools.
+-   🎯 Current Goal: Create, Build and Deploy projects
+-   ⚡ Fun fact: My Personality Type is **_INFJ_**.
+-   📫 How to reach me: **carlos_tabangay@outlook.com**
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat" alt="reddotz20" width="120px"/> </p> -->
+
+![](https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat)
+
+#### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/carlos_tabangay-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
+[![Instagram](https://img.shields.io/badge/carlos_tabangay-E4405F?&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
+[![Facebook](https://img.shields.io/badge/CarlosTabangay-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/CarlosTabangayRedDotz20/)
+[![Twitter](https://img.shields.io/badge/carlos_tabangay-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
+[![Discord](https://img.shields.io/badge/RedDotz-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
+
+#### Top Technologies:
+
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,html,css,vite,webpack,php,python,cpp,java,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,sequelize,postman,figma,git,github,bash,vscode,md)](https://skillicons.dev)
+
+<div align="left">
+  <a href="https://www.codewars.com/users/RedDotz20">
+    <img  src="https://www.codewars.com/users/RedDotz20/badges/small" alt="Codewars badge for RedDotz20">
+  </a>
+  <a href="https://leetcode.com/Carlos-Tabangay/">
+    <img  src="https://img.shields.io/badge/dynamic/json?style=for-the-    badge&amp;labelColor=black&amp;color=%23ffa116&amp;label=Ranking&amp;query=ranking&amp;url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCarlos-Tabangay&amp;logo=leetcode&amp;logoColor=yellow" alt="LeetCode badge for user Carlos-Tabangay">
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alfredjavier&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img widtH="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark" alt="reddotz20" />
+  <img widtH="47.3%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&include_all_commits=true&count_private=true&ring_color=fa8b00&theme=dark" alt="reddotz20" />
+</div>
+
+<!-- [![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RedDotz20&bg_color=151515&color=FFFFFF&line=f0db4f&point=2ade2a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<p align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10" alt="reddotz20" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" height="140" />
+
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=onestar&no-frame=true&row=1&column=7" alt="reddotz20" />
+  </a>
+</p>
+
+<!-- <p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" href="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&redirect=true">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=tabangay0607&unique={true|1|on|yes}&count=7&width=300" alt="spotify" />
+</p> -->
