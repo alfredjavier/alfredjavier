@@ -6,7 +6,7 @@
 
 <a href="https://app.daily.dev/Redz"><img align="right" src="https://api.daily.dev/devcards/102e358d74e542faae501170f3fb77fa.png?r=svl" width="27%" alt="Red's Dev Card"/></a>
 
--   ⚒ I’m currently working on my ** Web Developer **.
+<!---   ⚒ I’m currently working on my ** Web Developer **. -->
 -   🌱 I’m currently learning Next JS and Server Side Rendering.
 -   💬 Ask me about **React, HTML, CSS, JavaScript/TypeScript**.
 -   🤝 Looking forward to collaborating with other projects.
