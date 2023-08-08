@@ -28,6 +28,9 @@
 [![My Skills](https://skillicons.dev/icons?i=react,redux,wordpress,typescript,js,html,css,vite,webpack,php,python,cpp,java,tailwind,sass,bootstrap,tailwind,emotion,nextjs,nodejs,express,mongodb,postgres,mysql,docker,sequelize,postman,figma,git,github,bash,stackoverflow,pr,vscode,graphql,linux,md)](https://skillicons.dev)
 
 
+<div align="center">
+  <img alt="snake eating my contribution" src="https://github.com/zomeru/zomeru/blob/output/github-contribution-grid-snake-dark.svg">
+</div>
 
 ---
 
