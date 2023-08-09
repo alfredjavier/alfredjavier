@@ -36,13 +36,13 @@
 
 <div align="center">
   <img widtH="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark" alt="reddotz20" />
-  <img widtH="47.3%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&include_all_commits=true&count_private=true&ring_color=fa8b00&theme=dark" alt="reddotz20" />
+  <img widtH="47.3%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reddotz20&show_icons=true&locale=en&include_all_commits=true&count_private=true&ring_color=fa8b00&theme=dark" alt="reddotz20" />
 </div>
 
 <!-- [![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RedDotz20&bg_color=151515&color=FFFFFF&line=f0db4f&point=2ade2a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10" alt="reddotz20" />
+  <img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10" alt="reddotz20" />
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" height="140" />
 
 </p>
