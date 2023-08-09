@@ -47,11 +47,7 @@
 
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy-sigma-five.vercel.app/?username=reddotz20&theme=onestar&no-frame=true&row=1&column=7" alt="reddotz20" />
-  </a>
-</p>
+
 
 <!-- <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" href="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&redirect=true">
