@@ -8,7 +8,7 @@
 
 <!---   ⚒ I’m currently working on my ** Web Developer **. -->
 -   🌱 I’m currently learning Wordpress.
--   💬 Ask me about ** HTML, CSS, JavaScript*.
+-   💬 Ask me about ** Web Development **.
 -   🤝 Looking forward to collaborating with other projects.
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
 -   🎯 Current Goal: Create, Build and Deploy projects
