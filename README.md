@@ -7,12 +7,12 @@
 <a href="https://app.daily.dev/Redz"><img align="right" src="https://api.daily.dev/devcards/102e358d74e542faae501170f3fb77fa.png?r=svl" width="27%" alt="Red's Dev Card"/></a>
 
 <!---   ⚒ I’m currently working on my ** Web Developer **. -->
--   🌱 I’m currently learning Next JS and Server Side Rendering.
--   💬 Ask me about **React, HTML, CSS, JavaScript/TypeScript**.
+-   🌱 I’m currently learning Wordpress.
+-   💬 Ask me about ** HTML, CSS, JavaScript*.
 -   🤝 Looking forward to collaborating with other projects.
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
 -   🎯 Current Goal: Create, Build and Deploy projects
--   📫 How to reach me: **javieralfred93@gmail.com**
+-   📫 How to reach me: **javieralfred25@gmail.com**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat" alt="reddotz20" width="120px"/> </p> -->
 
