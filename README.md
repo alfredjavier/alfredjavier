@@ -7,7 +7,7 @@
 <a href="https://app.daily.dev/Redz"><img align="right" src="https://api.daily.dev/devcards/102e358d74e542faae501170f3fb77fa.png?r=svl" width="27%" alt="Red's Dev Card"/></a>
 
 <!---   ⚒ I’m currently working on my ** Web Developer **. -->
--   🌱 I’m Currently Learning Wordpress.
+-   🌱 I’m Currently Learning Customazation Wordpress Theme.
 -   💬 Ask me about ** Web Development **.
 -   🤝 Looking forward to collaborating with other projects.
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
