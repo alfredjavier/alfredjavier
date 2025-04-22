@@ -10,7 +10,7 @@
 -   🌱 I’m Currently Learning Customazation Wordpress Theme.
 -   💬 Ask me about ** Web Development **.
 -   🤝 Looking forward to collaborating with other projects.
--   🤔 I’m looking for help with other Web Frameworks and Tools.
+-   🤔 I’m looking for help with other Web and Tools.
 -   🎯 Current Goal: Create, Build and Deploy projects
 -   📫 How to reach me: **javieralfred25@gmail.com**
 
